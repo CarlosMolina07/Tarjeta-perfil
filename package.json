@@ -1,0 +1,14 @@
+{
+  "name": "tarjeta-perfil",
+  "version": "0.0.1",
+  "description": "Tarjeta de ejemplo para pocisionar elementos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "Carlos Molina Ravelo",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
